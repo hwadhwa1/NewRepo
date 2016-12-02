@@ -20,7 +20,7 @@ public class HelloWorldServlet extends HttpServlet {
 		out.print("<head><title>Hello World</title></head>");
 		out.print("<body>");
 		out.print("<h1>Hello World</h1>");
-		out.print("Current time is " + new java.util.Date());
+		out.print("Harish Current time is " + new java.util.Date());
 		out.println("</body></html>");
 	}
 }
